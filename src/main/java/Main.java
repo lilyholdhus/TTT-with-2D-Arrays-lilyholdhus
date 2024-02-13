@@ -27,6 +27,10 @@ For more in the future and more awesomer...
 5) You can make a new class for a turn, or a piece, or a screen painter
 */
 
+// Lily Holdhus
+// TTT 2D Arrays
+// Last Updated: 2/13/24
+// Period 5
 
 public class Main {
   public static void main(String[] args) {
